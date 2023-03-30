@@ -1,0 +1,33 @@
+.carousel-item {
+    background-color: beige;
+}
+
+.img-carousel {
+    margin-left: 15%;
+    border-radius: 100%;
+    width: 70%;
+    padding: 7%;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    filter:invert(100%);
+}
+
+h1 {
+    font-family: 'Tillana', serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Crimson Pro', serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Crimson Pro', serif;
+}
+
+.div-texto {
+    margin: 5% 3%;
+}
+
