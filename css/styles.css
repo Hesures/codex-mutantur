@@ -16,7 +16,6 @@
 h1 {
     font-family: 'Tillana', serif;
     text-align: center;
-    color: #964B00;
 }
 
 h2 {
@@ -27,7 +26,7 @@ h2 {
 
 p {
     font-family: 'Crimson Pro', serif;
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 .div-texto {
