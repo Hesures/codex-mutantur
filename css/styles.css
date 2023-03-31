@@ -3,7 +3,7 @@
 }
 
 .img-carousel {
-    margin-left: 15%;
+    margin-left: 35%;
     border-radius: 100%;
     width: 70%;
     padding: 7%;
@@ -20,8 +20,7 @@ h1 {
 
 h2 {
     font-family: 'Crimson Pro', serif;
-    text-align: center;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 p {
@@ -30,6 +29,23 @@ p {
 }
 
 .div-texto {
-    margin: 5% 3%;
+    margin: 10% auto;
+    padding-right: 20%;
 }
 
+/* Media Query */
+
+@media (max-width: 990px) {
+    .col-lg-5 {
+        text-align: center;
+    }
+    .img-carousel {
+        margin: 0 auto;
+    }
+    h2 {
+        text-align: center;
+    }
+    .div-texto {
+        margin-left: 20%;
+    }
+}
